@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aplikasi Absensi</string>
+    <string name="history_absensi">History Absensi</string>
+    <string name="ups_anda_belum_absen_hari_ini">Ups, Anda belum absen hari ini</string>
+    <string name="absensi_membutuhkan_info_lokasi_dan_hanya_bisa_dilakukan_jika_kamu_foto_selfie">Absensi membutuhkan info lokasi dan hanya bisa dilakukan jika kamu Foto Selfie.</string>
+</resources>
